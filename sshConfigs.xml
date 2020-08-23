@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="159.65.140.165" id="9f55430b-ed7b-4b2c-a3f8-3fc62d047b20" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="ubuntu-s-1vcpu-2gb-sgp1-01" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="ubuntu-s-1vcpu-2gb-sgp1-01" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>

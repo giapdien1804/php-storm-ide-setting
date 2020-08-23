@@ -1,0 +1,5 @@
+<application>
+  <component name="MarkdownApplicationSettings">
+    <MarkdownCssSettings StylesheetUri="file://$USER_HOME$/Home/jetBrains/github-markdown.css" StylesheetText="&#10;.markdown-body blockquote {&#10; white-space: pre-line;&#10;}" />
+  </component>
+</application>
