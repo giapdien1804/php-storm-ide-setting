@@ -11,8 +11,8 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@gitlab.com:diengv-omi/medpv-be.git" />
-          <option name="userName" value="" />
+          <option name="url" value="http://gitlab.ominext.com" />
+          <option name="userName" value="diengv@ominext.com" />
         </UrlAndUserName>
       </list>
     </option>
