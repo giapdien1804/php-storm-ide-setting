@@ -18,9 +18,13 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="diengv@ominext.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.ominext.com/medichart/medichart.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\PHP" />
+    <option name="cloneParentDir" value="D:\Projects\medichart" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
