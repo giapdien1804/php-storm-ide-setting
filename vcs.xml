@@ -15,22 +15,19 @@
           <option name="userName" value="diengv@ominext.com" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:diengv-typescript/medpv-dev.git" />
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="diengv@ominext.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.ominext.com/medichart/medichart.git" />
           <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://dev.azure.com" />
-          <option name="userName" value="diengv" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://medpv-app.scm.azurewebsites.net:443" />
-          <option name="userName" value="$medpv-app" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Ominext\MEDPV" />
+    <option name="cloneParentDir" value="D:\Projects\medichart" />
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
